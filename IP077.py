@@ -1,0 +1,1 @@
+def count_words(text): return len(set(text.lower().split()))

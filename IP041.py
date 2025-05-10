@@ -1,0 +1,1 @@
+def extremes(words): return (min(len(i) for i in words), max(len(i) for i in words))

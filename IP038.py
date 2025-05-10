@@ -1,0 +1,1 @@
+def odd_even(tup): return tup[::2] + tup[1::2]
